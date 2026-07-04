@@ -56,14 +56,14 @@
 <tr>
 <td width="50%">
 
-**🏥 [Digital Patient Health Record & Emergency Alert System](https://github.com/k4vin-exe)**
+**🏥 [Digital Patient Health Record & Emergency Alert System](https://github.com/k4vin-exe/Digital-Patient-Health-Record-Emergency-Alert-System)**
 Role-based web app for multi-hospital patient record access with RBAC and AWS SNS-powered emergency alerts.
 `PHP` `AWS S3/RDS/SNS` `HTML5/CSS3`
 
 </td>
 <td width="50%">
 
-**♻️ [E-Cycle — E-Waste Management Portal](https://github.com/k4vin-exe)**
+**♻️ [E-Cycle — E-Waste Management Portal](https://github.com/k4vin-exe/E_cycle)**
 Multi-role portal for e-waste pickup/drop-off with vendor/collector dashboards and a Gemini API chatbot.
 `React` `Node.js` `MongoDB` `Gemini API`
 
@@ -79,7 +79,7 @@ Offline-first Android app for farmers: crop planning, maintenance scheduling, go
 </td>
 <td width="50%">
 
-**🛡️ Digital Communication Safeguard**
+**🛡️ [Digital Communication Safeguard](https://github.com/k4vin-exe/Digital-Communication-Safeguard)**
 On-device TensorFlow Lite prototype that detects scam/harassment patterns in notifications — fully offline.
 `Kotlin` `TensorFlow Lite` `Room`
 
