@@ -121,7 +121,7 @@ Led the design team for *Shalom*, the club's flagship annual event; coordinated 
 ### 🌐 More of My Work
 
 <p align="left">
-  <a href="k4vin-exe.github.io/My_Portfolio/"><img src="https://img.shields.io/badge/Portfolio-View%20Repo-2E9EF7?style=flat&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://k4vin-exe.github.io/My_Portfolio/"><img src="https://img.shields.io/badge/Portfolio-View%20Repo-2E9EF7?style=flat&logo=googlechrome&logoColor=white" /></a>
   <a href="https://github.com/k4vin-exe?tab=repositories"><img src="https://img.shields.io/badge/All%20Repositories-View%20All-181717?style=flat&logo=github&logoColor=white" /></a>
 </p>
 
