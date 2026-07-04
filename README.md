@@ -89,15 +89,40 @@ On-device TensorFlow Lite prototype that detects scam/harassment patterns in not
 
 ---
 
-### 📊 GitHub Stats
+### 🎓 Education
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=k4vin-exe&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k4vin-exe&layout=compact&hide_border=true" />
+| Degree | Institution | Duration | Score |
+|---|---|---|---|
+| Master of Computer Applications (MCA) | PSG College of Technology, Coimbatore | 2025 – 2027 (Pursuing) | CGPA 7.035 |
+| B.Sc. Computer Science | Loyola College of Arts and Science, Chennai | 2022 – 2025 | CGPA 7.65 |
+
+---
+
+### 💼 Experience & Leadership
+
+**Media Secretary** — Dept. of Computer Science, Loyola College *(Jul 2024 – May 2025)*
+Managed departmental communications and digital content strategy; coordinated technical events with faculty and student teams.
+
+**Designing Head & Brand Designer** — Rotaract Club of Loyola College *(Aug 2023 – May 2024)*
+Led the design team for *Shalom*, the club's flagship annual event; coordinated logistics and communications across teams.
+
+---
+
+### 🏆 Achievements
+
+<p align="left">
+  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="60" alt="Pull Shark" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=k4vin-exe&hide_border=true" />
+🦈 **Pull Shark** — awarded by GitHub for merged pull requests
+
+---
+
+### 🌐 More of My Work
+
+<p align="left">
+  <a href="https://github.com/k4vin-exe/My_portfolio"><img src="https://img.shields.io/badge/Portfolio-View%20Repo-2E9EF7?style=flat&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://github.com/k4vin-exe?tab=repositories"><img src="https://img.shields.io/badge/All%20Repositories-View%20All-181717?style=flat&logo=github&logoColor=white" /></a>
 </p>
 
 ---
@@ -107,3 +132,5 @@ On-device TensorFlow Lite prototype that detects scam/harassment patterns in not
 <p align="center">
   <a href="mailto:arockevin@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+
+<p align="center"><i>Open to internship and full-time opportunities in Software Development 🚀</i></p>
